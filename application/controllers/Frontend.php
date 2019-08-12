@@ -5,6 +5,6 @@ class FrontEnd extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('frontend/landingpage');
+		$this->load->view('frontend/home');
 	}
 }
