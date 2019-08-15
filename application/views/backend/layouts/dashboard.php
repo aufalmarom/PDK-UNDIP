@@ -1140,7 +1140,7 @@
 						</div>
 					</div>
 					<div class="switch-block">
-						<h4>Navbar Header</h4>
+						<h4>Navbar Headers</h4>
 						<div class="btnSwitch">
 							<button type="button" class="selected changeTopBarColor" data-color="dark"></button>
 							<button type="button" class="changeTopBarColor" data-color="blue"></button>
